@@ -1,2 +1,12 @@
-# Heart-disease-prediction
-A machine learning project that predicts the likelihood of heart disease in patients based on medical attributes like age, blood pressure, cholesterol, and more. Built using Logistic Regression, the model achieves high accuracy and helps identify at-risk individuals early.
+
+
+This project uses Logistic Regression to predict the likelihood of heart disease based on various health parameters.
+
+#here you can download dataset through kaggle
+ Source: [UCI Heart Disease Dataset](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)
+ Attributes include: age, sex, chest pain type, resting blood pressure, cholesterol, fasting blood sugar, etc.
+
+where we are using algorithm:Logistic Regression
+
+Accuracy: ~91%
+Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`
