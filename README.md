@@ -8,6 +8,7 @@ here you can download dataset through kaggle
 
 where we are using algorithm:Logistic Regression
 
-Accuracy: ~91%
+Accuracy: ~86%
 
 Libraries: pandas, numpy, scikit-learn, matplotlib
+
